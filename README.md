@@ -1,4 +1,4 @@
-# Usama Portfolio
+# Salama Portfolio
 # [Project 1: Data scientists Salaries](https://github.com/AUsama007/DataScienceSalary) 
  
 **Created a tool that estimates data science salaries to help data scientists negotiate their income when they get a job.**
