@@ -1,4 +1,12 @@
 # Salama Portfolio
+
+# Reviews
+<img width="1047" height="199" alt="FintracUpworkReview" src="https://github.com/user-attachments/assets/557ee61a-04b0-4f0d-94d9-067e75729e36" />
+<img width="694" height="622" alt="LinkedinReview1" src="https://github.com/user-attachments/assets/54d63e94-b71c-4272-bb7a-63f8b3917c77" />
+
+
+
+
 # [Project 1: Data scientists Salaries](https://github.com/AUsama007/DataScienceSalary) 
  
 **Created a tool that estimates data science salaries to help data scientists negotiate their income when they get a job.**
