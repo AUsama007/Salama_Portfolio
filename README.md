@@ -1,4 +1,4 @@
-# Salama Portfolio
+# Ahmed Salama
 
 # Reviews
 
@@ -27,7 +27,7 @@ Random Forest : MAE = 11.22
 
 Linear Regression: MAE = 18.86
 ![](https://github.com/AUsama007/DataScienceSalary/blob/main/positions_by_state.png)
-# [Project 2: Airbnb predections] 
+# [Project 2: Airbnb predections](https://github.com/AUsama007/DataScienceSalary) 
 That is my first paid project on UPWORK, those were the points I achieved:
 
 -	Create a price-suggestion model for new Airbnb hosts who might not know the optimal value of their listing.
