@@ -1,4 +1,4 @@
-# Salama AI Portfolio
+# Salama Portfolio
 
 # Reviews
 
