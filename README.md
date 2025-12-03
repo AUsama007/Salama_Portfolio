@@ -54,8 +54,8 @@ We start by cleaning our data. Tasks during this section include:
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
-# [Project 4: Tinder-Asian](https://github.com/AUsama007/Asian_tinder_Projet)
-While using Tinder I faced a problem  with scammers or bots, most of them were using fake asian pictures (unfortunately) as a profile picture. I drevided a model to take a screenshot and do a face classification. If it found that the face is asian it clicks the are of dislike button, press like button otherwise. I used a ready model from a super productive team called mica_race_from_face for race_detection. Used PYAUTOGUI for screen clicking.
+# [Project 4: Tinder-Scam](https://github.com/AUsama007/Asian_tinder_Projet)
+While using Tinder, I encountered an issue with scammers or bots—many of them using fake Asian profile photos. I developed a model to capture a screenshot and perform face classification. If the model detected an Asian face, it would click the “dislike” area; otherwise, it would press “like.” I utilized a prebuilt model from the highly productive mica_race_from_face team for race detection and used PYAUTOGUI for automated screen interactions.
 
 # [Project 5: Loan Lending](https://github.com/AUsama007/Loan_Lending_Project)
 **For this project I explored publicly available data from LendingClub.com. Lending Club connects borrowers with investors. 
