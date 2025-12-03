@@ -27,7 +27,7 @@ Random Forest : MAE = 11.22
 
 Linear Regression: MAE = 18.86
 ![](https://github.com/AUsama007/DataScienceSalary/blob/main/positions_by_state.png)
-# [Project 2: Airbnb predections](https://www.upwork.com/freelancers/~014b7e467604980af7) 
+# [Project 2: Airbnb predections] 
 That is my first paid project on UPWORK, those were the points I achieved:
 
 -	Create a price-suggestion model for new Airbnb hosts who might not know the optimal value of their listing.
@@ -87,5 +87,3 @@ Decision Tree has the lowest processing time in both Training and prediction pro
 KNN has the highest prediction time around 82min followed by Random Forest model with around 49 seconds.
 
 
-# [Project 8: Caviar Sales Data Visualization](https://datastudio.google.com/s/kq4bT7zGrU8)
-**A demo project using Google Data Studio**
